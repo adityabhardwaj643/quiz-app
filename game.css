@@ -9,15 +9,17 @@
   
   .choice-container:hover {
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(28, 111, 153, 0.5);
     transform: translateY(-0.1rem);
     transition: transform 150ms;
   }
   
   .choice-prefix {
     padding: 1.5rem 2.5rem;
-    background-color: #56a5eb;
+    background-color: #3f5e79;
     color: white;
+    border: #56a5eb ;
+    border-width: 2rem;
   }
   
   .choice-text {
